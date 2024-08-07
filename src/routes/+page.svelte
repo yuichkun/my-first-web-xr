@@ -23,6 +23,7 @@
 		right: 12px;
 		padding: 32px;
 		border-radius: 32px;
+		border: none;
 		font-size: 62px;
 		text-align: center;
 		background: #ffbf47;
