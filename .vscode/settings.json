@@ -1,6 +1,13 @@
 {
   "cSpell.words": [
     "aframe",
-    "arjs"
-  ]
+    "arjs",
+    "raycaster",
+    "xrextras",
+    "xrweb"
+  ],
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "editor.formatOnSave": true,
 }
