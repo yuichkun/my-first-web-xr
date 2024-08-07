@@ -31,7 +31,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@ar-js-org/ar.js": "3.4.5",
-		"aframe": "1.6.0"
+		"@google/model-viewer": "3.5.0",
+		"three": "0.163.0"
 	}
 }
